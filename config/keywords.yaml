@@ -1,0 +1,60 @@
+# Keywords configuration for job filtering and ranking
+
+# Keywords to search for in job titles and descriptions
+keywords:
+  high_priority:
+    - "Senior Software Engineer"
+    - "Staff Engineer"
+    - "Principal Engineer"
+    - "Engineering Manager"
+    - "Technical Lead"
+    - "Senior Backend"
+    - "Senior Frontend"
+    - "Senior Full Stack"
+    
+  medium_priority:
+    - "Software Engineer"
+    - "Backend Engineer"
+    - "Frontend Engineer"
+    - "Full Stack Engineer"
+    - "DevOps Engineer"
+    - "Site Reliability Engineer"
+    - "Data Engineer"
+    
+  low_priority:
+    - "Junior Engineer"
+    - "Associate Engineer"
+    - "Intern"
+
+# Skills to boost ranking
+preferred_skills:
+  - "Python"
+  - "JavaScript"
+  - "TypeScript"
+  - "React"
+  - "Node.js"
+  - "AWS"
+  - "Kubernetes"
+  - "Docker"
+  - "GraphQL"
+  - "PostgreSQL"
+  - "MongoDB"
+  - "Microservices"
+  - "CI/CD"
+  - "Machine Learning"
+  - "AI"
+
+# Locations preference (higher score for preferred locations)
+preferred_locations:
+  - "Remote"
+  - "San Francisco"
+  - "New York"
+  - "Seattle"
+  - "Austin"
+  - "Boston"
+
+# Exclude jobs with these keywords
+exclude_keywords:
+  - "Clearance Required"
+  - "Security Clearance"
+  - "Top Secret"
