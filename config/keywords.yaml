@@ -63,11 +63,9 @@ preferred_skills:
 # Locations preference (higher score for preferred locations)
 preferred_locations:
   - "Remote"
-  - "San Francisco"
-  - "New York"
-  - "Seattle"
-  - "Austin"
-  - "Boston"
+  - "Pittsburgh"
+  - "Greater Pittsburgh Area"
+  
 
 # Exclude jobs with these keywords
 exclude_keywords:
