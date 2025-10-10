@@ -8,12 +8,13 @@ An advanced job scraping tool that automatically fetches, processes, and analyze
   - Greenhouse API (`https://boards-api.greenhouse.io`)
   - Lever API (`https://api.lever.co`)
   - Ashby GraphQL (`jobs.ashbyhq.com`)
+  - **56 companies by default** including Pittsburgh-area and remote-first companies
 
 - **Intelligent Processing**:
   - Data normalization across different ATS formats
   - Deduplication based on job title and company
   - Ranking system based on configurable keywords and skills
-  - Location normalization
+  - Location normalization (Pittsburgh and Remote prioritized by default)
 
 - **AI Integration** (Optional):
   - Job description analysis using ChatGPT

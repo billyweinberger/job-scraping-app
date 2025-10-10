@@ -2,6 +2,7 @@
 # Format: company_name: {ats_type, board_url}
 
 companies:
+  # Big Tech Companies (Original)
   - name: "OpenAI"
     ats: "greenhouse"
     board_token: "openai"
@@ -41,3 +42,189 @@ companies:
   - name: "Ramp"
     ats: "ashby"
     board_url: "https://jobs.ashbyhq.com/ramp"
+  
+  # Pittsburgh-based Companies
+  - name: "Duolingo"
+    ats: "greenhouse"
+    board_token: "duolingo"
+    
+  - name: "Argo AI"
+    ats: "greenhouse"
+    board_token: "argo"
+    
+  - name: "Aurora Innovation"
+    ats: "greenhouse"
+    board_token: "aurorainnovation"
+  
+  # Mid-size Tech Companies with Strong Remote Programs
+  - name: "GitLab"
+    ats: "greenhouse"
+    board_token: "gitlab"
+    
+  - name: "Airtable"
+    ats: "greenhouse"
+    board_token: "airtable"
+    
+  - name: "Plaid"
+    ats: "greenhouse"
+    board_token: "plaid"
+    
+  - name: "Webflow"
+    ats: "greenhouse"
+    board_token: "webflow"
+    
+  - name: "Vercel"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/vercel"
+    
+  - name: "Retool"
+    ats: "greenhouse"
+    board_token: "retool"
+    
+  - name: "Snapchat"
+    ats: "greenhouse"
+    board_token: "snap"
+    
+  - name: "Robinhood"
+    ats: "greenhouse"
+    board_token: "robinhood"
+    
+  - name: "Coinbase"
+    ats: "greenhouse"
+    board_token: "coinbase"
+    
+  - name: "Checkr"
+    ats: "greenhouse"
+    board_token: "checkr"
+    
+  - name: "Grammarly"
+    ats: "greenhouse"
+    board_token: "grammarly"
+    
+  - name: "Reddit"
+    ats: "greenhouse"
+    board_token: "reddit"
+    
+  - name: "Instacart"
+    ats: "greenhouse"
+    board_token: "instacart"
+    
+  - name: "DoorDash"
+    ats: "greenhouse"
+    board_token: "doordash"
+    
+  - name: "Chime"
+    ats: "greenhouse"
+    board_token: "chime"
+    
+  - name: "Square"
+    ats: "greenhouse"
+    board_token: "square"
+    
+  - name: "Zapier"
+    ats: "lever"
+    board_url: "https://api.lever.co/v0/postings/zapier"
+    
+  - name: "HashiCorp"
+    ats: "greenhouse"
+    board_token: "hashicorp"
+    
+  - name: "Datadog"
+    ats: "greenhouse"
+    board_token: "datadog"
+    
+  - name: "Amplitude"
+    ats: "greenhouse"
+    board_token: "amplitude"
+    
+  - name: "Sentry"
+    ats: "lever"
+    board_url: "https://api.lever.co/v0/postings/sentry"
+    
+  - name: "Lattice"
+    ats: "greenhouse"
+    board_token: "lattice"
+    
+  - name: "Benchling"
+    ats: "greenhouse"
+    board_token: "benchling"
+    
+  - name: "Gusto"
+    ats: "greenhouse"
+    board_token: "gusto"
+    
+  - name: "Flexport"
+    ats: "greenhouse"
+    board_token: "flexport"
+    
+  - name: "Brex"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/brex"
+    
+  - name: "Affirm"
+    ats: "greenhouse"
+    board_token: "affirm"
+    
+  - name: "Toast"
+    ats: "greenhouse"
+    board_token: "toastinc"
+    
+  - name: "MongoDB"
+    ats: "greenhouse"
+    board_token: "mongodb"
+    
+  - name: "Snowflake"
+    ats: "greenhouse"
+    board_token: "snowflake"
+    
+  - name: "Confluent"
+    ats: "greenhouse"
+    board_token: "confluent"
+    
+  - name: "Elastic"
+    ats: "greenhouse"
+    board_token: "elastic"
+    
+  - name: "Asana"
+    ats: "greenhouse"
+    board_token: "asana"
+    
+  - name: "Dropbox"
+    ats: "greenhouse"
+    board_token: "dropbox"
+    
+  - name: "Atlassian"
+    ats: "greenhouse"
+    board_token: "atlassian"
+    
+  - name: "Canva"
+    ats: "greenhouse"
+    board_token: "canva"
+    
+  - name: "HubSpot"
+    ats: "greenhouse"
+    board_token: "hubspot"
+    
+  - name: "Twilio"
+    ats: "greenhouse"
+    board_token: "twilio"
+    
+  - name: "Segment"
+    ats: "greenhouse"
+    board_token: "segment"
+    
+  - name: "Miro"
+    ats: "greenhouse"
+    board_token: "miro"
+    
+  - name: "Calendly"
+    ats: "greenhouse"
+    board_token: "calendly"
+    
+  - name: "Carta"
+    ats: "greenhouse"
+    board_token: "carta"
+    
+  - name: "Rippling"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/rippling"
