@@ -26,7 +26,13 @@ python -c "import yaml, requests; print('✓ Dependencies installed')"
 
 ### 1. Companies Configuration
 
-Edit `config/companies.yaml` to add companies you want to track:
+The default configuration now includes **56 companies** spanning:
+- Major tech companies (FAANG+)
+- **Pittsburgh-based companies** (Duolingo, Aurora Innovation, etc.)
+- Remote-first companies (GitLab, Zapier, etc.)
+- Mid-size tech companies with strong engineering cultures
+
+To customize, edit `config/companies.yaml`:
 
 ```yaml
 companies:
@@ -39,6 +45,8 @@ companies:
 - **Greenhouse**: Check company careers page URL (e.g., `boards.greenhouse.io/openai` → token: `openai`)
 - **Lever**: Use API URL format: `https://api.lever.co/v0/postings/company-name`
 - **Ashby**: Use jobs page URL: `https://jobs.ashbyhq.com/company-name`
+
+**Pro tip:** The expanded list focuses on companies with Pittsburgh offices and strong remote programs, making it easy to find local or remote opportunities.
 
 ### 2. Keywords Configuration
 
