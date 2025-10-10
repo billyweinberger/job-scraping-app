@@ -1,0 +1,76 @@
+# Keywords configuration for job filtering and ranking
+
+# Keywords to search for in job titles and descriptions
+keywords:
+  high_priority:
+    - "Software QA Manager"
+    - "QA Manager"
+    - "Senior QA Engineer"
+    - "SDET"
+    - "Senior QA"
+    - "QA Lead"
+    - "Principal QA Engineer"
+    - "Dev Manager"
+    - "Development Manager"
+    - "Engineering Manager"
+    - "Senior Engineering Manager"
+    - "Director of Engineering"
+    - "VP of Engineering"
+    
+  medium_priority:
+    - "QA Engineer"
+    - "Test Engineer"
+    - "Automation Engineer"
+    - "Quality Assurance"
+    - "Software Tester"
+    - "Engineering Lead"
+    - "Tech Lead"
+    
+  low_priority:
+    - "Junior QA"
+    - "Associate QA"
+    - "QA Intern"
+    - "Entry Level QA"
+
+# Skills to boost ranking (QA and Engineering focused)
+preferred_skills:
+  - "Selenium"
+  - "Cypress"
+  - "Playwright"
+  - "TestNG"
+  - "JUnit"
+  - "Appium"
+  - "Postman"
+  - "Jenkins"
+  - "GitLab CI"
+  - "Python"
+  - "Java"
+  - "JavaScript"
+  - "TypeScript"
+  - "React"
+  - "Node.js"
+  - "AWS"
+  - "Kubernetes"
+  - "Docker"
+  - "PostgreSQL"
+  - "MongoDB"
+  - "Microservices"
+  - "CI/CD"
+  - "Agile"
+  - "Scrum"
+  - "Kanban"
+
+# Locations preference (higher score for preferred locations)
+preferred_locations:
+  - "Remote"
+  - "San Francisco"
+  - "New York"
+  - "Seattle"
+  - "Austin"
+  - "Boston"
+
+# Exclude jobs with these keywords
+exclude_keywords:
+  - "Clearance Required"
+  - "Security Clearance"
+  - "Top Secret"

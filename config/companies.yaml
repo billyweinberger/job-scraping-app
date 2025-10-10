@@ -1,0 +1,43 @@
+# Companies configuration for job scraping
+# Format: company_name: {ats_type, board_url}
+
+companies:
+  - name: "OpenAI"
+    ats: "greenhouse"
+    board_token: "openai"
+    
+  - name: "Anthropic"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/anthropic"
+    
+  - name: "Stripe"
+    ats: "greenhouse"
+    board_token: "stripe"
+    
+  - name: "Airbnb"
+    ats: "greenhouse"
+    board_token: "airbnb"
+    
+  - name: "Notion"
+    ats: "lever"
+    board_url: "https://api.lever.co/v0/postings/notion"
+    
+  - name: "Figma"
+    ats: "greenhouse"
+    board_token: "figma"
+    
+  - name: "Scale AI"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/scale"
+    
+  - name: "Discord"
+    ats: "greenhouse"
+    board_token: "discord"
+    
+  - name: "Databricks"
+    ats: "greenhouse"
+    board_token: "databricks"
+    
+  - name: "Ramp"
+    ats: "ashby"
+    board_url: "https://jobs.ashbyhq.com/ramp"
