@@ -3,26 +3,27 @@
 # Keywords to search for in job titles and descriptions
 keywords:
   high_priority:
-    - "Software QA Manager"
-    - "QA Manager"
-    - "Senior QA Engineer"
     - "SDET"
     - "Senior QA"
     - "QA Lead"
     - "Principal QA Engineer"
-    - "Dev Manager"
-    - "Development Manager"
-    - "Engineering Manager"
-    - "Senior Engineering Manager"
-    
-  medium_priority:
+    - "Software QA Manager"
+    - "QA Manager"
+    - "Senior QA Engineer"
     - "QA Engineer"
+    - "Automation Engineer"
+    - "Engineering Lead"
+    - "Tech Lead"
+
+  medium_priority:
     - "Test Engineer"
     - "Automation Engineer"
     - "Quality Assurance"
     - "Software Tester"
-    - "Engineering Lead"
-    - "Tech Lead"
+    - "Dev Manager"
+    - "Development Manager"
+    - "Engineering Manager"
+    - "Senior Engineering Manager"
     
   low_priority:
     - "Junior QA"
@@ -52,6 +53,11 @@ preferred_skills:
   - "Docker"
   - "PostgreSQL"
   - "MongoDB"
+  - "Angular"
+  - "Postgres"
+  - "Mongo"
+  - "Lambda"
+  - "Serverless"
   - "Microservices"
   - "CI/CD"
   - "Agile"
